@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\plpal\\Desktop\\Github\\Jarvis-AI\\JarvisWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plpal\\Desktop\\Github\\Jarvis-AI\\JarvisWindows\\Jarvis.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Jarvis.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\plpal\\Desktop\\Github\\Jarvis-AI\\JarvisWindows\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jarvis.py",
+              "DocumentMoniker": "C:\\Users\\plpal\\Desktop\\Github\\Jarvis-AI\\JarvisWindows\\Jarvis.py",
+              "RelativeDocumentMoniker": "Jarvis.py",
+              "ToolTip": "C:\\Users\\plpal\\Desktop\\Github\\Jarvis-AI\\JarvisWindows\\Jarvis.py",
+              "RelativeToolTip": "Jarvis.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-19T21:37:16.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\plpal\\Desktop\\Github\\Jarvis-AI\\JarvisWindows\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\plpal\\Desktop\\Github\\Jarvis-AI\\JarvisWindows\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-19T21:35:00.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
